@@ -11,7 +11,7 @@ const cormorant = Cormorant_Upright({
 });
 
 export const metadata: Metadata = {
-  title: "Gericht Restaurant",
+  title: "White Soup Restaurant",
   description: "Fine dining restaurant experience",
 };
 

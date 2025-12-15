@@ -16,7 +16,7 @@ const GOLDEN_COLORS = {
 
 const Logo = () => (
   <div className="text-2xl font-bold text-[#DCCA87] font-serif tracking-wider">
-    Gericht
+    White Soup
   </div>
 );
 
